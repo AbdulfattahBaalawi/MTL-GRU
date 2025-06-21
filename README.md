@@ -10,4 +10,4 @@ This project explores a GRU-based architecture enhanced with multi-task learning
 
 - `AnomalyDetection_final-Revision.ipynb` — Colab notebook contains all codes, just open it in Colab and navigate to the part that you need.  
 - `Hyper_parameter_Selection_EEMTLGru.ipynb` —  Colab notebook used for experimentation with hyperparameters.  
-- `CSV and EXCEL files` — Include obtained results.  
+- `CSV and EXCEL files` — Include the obtained results.  
